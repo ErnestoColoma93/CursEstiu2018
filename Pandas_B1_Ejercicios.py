@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sun Jul 15 17:36:16 2018
-
+version Python 3.6.4 
 @author: Ernesto Coloama Rotger 
 """
 ## Ejercicios Pandas Bloque 1 
